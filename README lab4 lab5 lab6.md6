@@ -1,0 +1,16 @@
+# PR-labs Druta Mihai FI-161
+
+Lab 4 - Mail Protocols
+Am efectuat un program care implementeaza schimbul de informatii prin protocoalele petru email SMTP si POP3
+Am folosit Gmail ca server de mail
+Functionalitati implementate
+SMTP - trimite un mesaj de pe un email pe altul
+POP3 - returneaza datele despre ultimele 10 scrisori de pe mail (Subiect, Expeditor, Mesaj)
+
+Lab 5 - Client Server Sockets
+Am efectuat un program care implementeaza un chat simplu intre 2 persoane utilizind Sockets
+Mesajele sunt transmise unul dupa altul, nu este posibil de a scri un al doilea mesaj pina nu primim raspuns de la celalalt utilizator
+
+Lab 6 - Client Server UDP, Group Chat
+Am efectuat un program care implementeaza un simplu group chat, utilizind UDP
+Se pot conecta pina la 3 persoane concomitent, fiecare poate vedea mesajele altor utiliziatori cu numele acestora, la fel poate expedia mesaje catre toti participantii group-chat-ului
